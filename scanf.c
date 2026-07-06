@@ -6,3 +6,4 @@ scanf("%d",&fav_num);
 printf("Your favourite number is %d",fav_num);
 return 0;
 }
+
