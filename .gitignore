@@ -1,0 +1,9 @@
+# Object files
+*.o
+
+# Executables
+*.exe
+
+# Code::Blocks build folders
+bin/
+obj/
